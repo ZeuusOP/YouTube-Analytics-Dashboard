@@ -1,7 +1,3 @@
-Perfect! Here’s your **YouTube Analytics Dashboard README** rewritten in the **same style and structure** as your `JobMarket-ExcelDB` example:
-
----
-
 # YouTube-Analytics-Dashboard
 
 📊 **YouTube Analytics Dashboard Project**
